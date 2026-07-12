@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://developer.metro.net/api/
 common:
+  - type: DomainSecurity
+    url: security/transport-for-los-angeles-us-domain-security.yml
   - type: Website
     url: https://developer.metro.net/api/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://thesource.metro.net/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
