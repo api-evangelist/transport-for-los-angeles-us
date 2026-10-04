@@ -39,7 +39,6 @@ apis:
   - name: Transport for Los Angeles, US
     description: "Data about positions of Metro vehicles in real time and travel their routes"
     humanURL: https://developer.metro.net/api/
-    baseURL: https://developer.metro.net/api/
     tags:
       - Transportation
     properties:
